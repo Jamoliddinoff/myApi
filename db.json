@@ -1,28 +1,12 @@
 {
   "users": [
     {
-      "id": 2,
-      "name": "Ervin Howell",
-      "contact": "+998339979897",
-      "email": "Shanna@melissa.tv",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/kubko/kubko1502/kubko150200212/36930397-group-of-flat-women-figure-silhouette-people-cartoon-vector-.jpg"
-    },
-    {
       "id": 5,
       "name": "Chelsey Dietrich",
       "contact": "+998712453423",
       "email": "Lucio_Hettinger@annie.ca",
       "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
       "image": "https://images.idgesg.net/images/article/2020/06/man-looking-up_linux-code_command-for-user-assessment_by-electravk-getty-images-100849495-large.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "contact": "+998907654532",
-      "email": "Karley_Dach@jasper.info",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/kubko/kubko1502/kubko150200212/36930397-group-of-flat-women-figure-silhouette-people-cartoon-vector-.jpg"
     },
     {
       "id": 8,
@@ -121,12 +105,20 @@
       "id": 26
     },
     {
-      "name": "Abdulbosit Ergashxo`jayev",
-      "contact": "+998935939796",
-      "email": "abdulboosit@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://telegra.ph/file/0e36d3e71843d23d115e3.jpg",
-      "id": 27
+      "name": "Javoxir Jaloliddinov",
+      "contact": "+998333300388",
+      "email": "jrJavoxir@gamil.com",
+      "message": "hello",
+      "image": "https://images.idgesg.net/images/article/2020/06/man-looking-up_linux-code_command-for-user-assessment_by-electravk-getty-images-100849495-large.jpg",
+      "id": 28
+    },
+    {
+      "name": "Karimov Akrom",
+      "contact": "+998712453423",
+      "email": "BEk@gmail.com",
+      "message": "say hi",
+      "image": "https://www.lynx.com/hubfs/Linux%20Challenges%20BG%2002.png",
+      "id": 29
     }
   ],
   "auth": [
@@ -137,6 +129,50 @@
     {
       "login": "toshmat",
       "pass": "4321"
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "Kamol",
+      "surname": "Samiyev",
+      "age": 21,
+      "region": "Namangan"
+    },
+    {
+      "id": 2,
+      "name": "Ravshan",
+      "surname": "Komilov",
+      "age": 22,
+      "region": "Andijon"
+    },
+    {
+      "id": 3,
+      "name": "Kamron",
+      "surname": "Ergashev",
+      "age": 20,
+      "region": "Farg`ona"
+    },
+    {
+      "id": 4,
+      "name": "Atham",
+      "surname": "Toshov",
+      "age": 24,
+      "region": "Toshkent"
+    },
+    {
+      "id": 5,
+      "name": "Sami",
+      "surname": "Salomov",
+      "age": 23,
+      "region": "Namangan"
+    },
+    {
+      "id": 6,
+      "name": "Xakim",
+      "surname": "Adxamov",
+      "age": 23,
+      "region": "Andijon"
     }
   ]
 }
