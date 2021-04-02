@@ -1,5 +1,4 @@
 {
- 
   "mosques": [
     {
       "id": 1,
@@ -138,7 +137,6 @@
       "image": "https://previews.123rf.com/images/kubko/kubko1502/kubko150200212/36930397-group-of-flat-women-figure-silhouette-people-cartoon-vector-.jpg"
     }
   ],
-  
   "auth": [
     {
       "login": "eshmat",
@@ -147,50 +145,6 @@
     {
       "login": "toshmat",
       "pass": "4321"
-    }
-  ],
-  "student": [
-    {
-      "id": 1,
-      "name": "Kamol",
-      "surname": "Samiyev",
-      "age": 21,
-      "region": "Namangan"
-    },
-    {
-      "id": 2,
-      "name": "Ravshan",
-      "surname": "Komilov",
-      "age": 22,
-      "region": "Andijon"
-    },
-    {
-      "id": 3,
-      "name": "Kamron",
-      "surname": "Ergashev",
-      "age": 20,
-      "region": "Farg`ona"
-    },
-    {
-      "id": 4,
-      "name": "Atham",
-      "surname": "Toshov",
-      "age": 24,
-      "region": "Toshkent"
-    },
-    {
-      "id": 5,
-      "name": "Sami",
-      "surname": "Salomov",
-      "age": 23,
-      "region": "Namangan"
-    },
-    {
-      "id": 6,
-      "name": "Xakim",
-      "surname": "Adxamov",
-      "age": 23,
-      "region": "Andijon"
     }
   ]
 }
