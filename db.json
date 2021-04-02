@@ -1,126 +1,144 @@
 {
-  "users": [
+ {
+  "mosques": [
     {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "contact": "+998712453423",
-      "email": "Lucio_Hettinger@annie.ca",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://images.idgesg.net/images/article/2020/06/man-looking-up_linux-code_command-for-user-assessment_by-electravk-getty-images-100849495-large.jpg"
+      "id": 1,
+      "name": "Minor",
+      "imamName": "Нодиров Бойкенжа Юсупович",
+      "address": "Шайхонтоҳур тумани, Зафаробод кўчаси 43-уй",
+      "region": "Yunusobot",
+      "location": "41.2592291,69.1864111",
+      "busStop": "12,45,23,52",
+      "miniBus": "12,51",
+      "size": "5400",
+      "info": "info info info",
+      "imgURL": "https://meros.uz/upload/2017/02/7e7cb6814b74d6596098fc80127569a5-large.png",
+      "vrURL": "https://momento360.com/e/u/68467518b0004f98983fdc783d22c108?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium"
     },
     {
-      "id": 8,
-      "name": "Nicholas Runolfsdottir",
-      "contact": "+998903214561",
-      "email": "Sherwood@rosamond.me",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/monsitj/monsitj1901/monsitj190100064/118035074-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg"
+      "id": 2,
+      "name": "Hoja Ahror Vali",
+      "imamName": "Нодиров Бойкенжа Юсупович",
+      "address": "Шайхонтоҳур тумани, Зафаробод кўчаси 43-уй",
+      "region": "Shayxontohur",
+      "location": "41.2592291,69.1864111",
+      "busStop": "12,45,23,52",
+      "miniBus": "12,51",
+      "size": "3400",
+      "info": "info info info",
+      "imgURL": "https://shosh.uz/wp-content/uploads/2017/09/Masjid3.jpg",
+      "vrURL": "https://momento360.com/e/u/68467518b0004f98983fdc783d22c108?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium"
     },
     {
-      "id": 9,
-      "name": "Glenna Reichert",
-      "contact": "(775)976-6794",
-      "email": "Chaim_McDermott@dana.io",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2018/10/bigstock_Programming_Code_Abstract_Tech_209411527.5bcf6d31139ba.png?auto=format&w=720"
+      "name": "Fotimai Zahro",
+      "imamName": "Jabborov Muzaffar Аshirovich",
+      "address": "Shayxontohur tumani, Choʼpon ota mahallasi, Shokir Аlimov koʼchasi 47-uy. Tel.: +998 71 273 59 33",
+      "region": "Shayhontohur",
+      "location": "41.3074954,69.2046108",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "3400",
+      "info": "“Fotimai Zahro” jome masjidi 1994-1996-yillarda mahalla fuqarolari tomonidan umumiy hashar yoʼli bilan qurilgan. 2004-yilda masjid toʼliq qayta taʼmirlangan. Mahalla ahlining taklifiga binoan masjidga “Fotimai Zahro” nomi berilgan. Rasululloh (s.a.v)ning eng kichik qizlari, Hazrati Аli (r.a) ning jufti halollari va Hazrati Hasan va Husayn (r.a)larning onalari Fotima roziyallohu anho onamiz islom olamidaga sharafli va muslimalarga chinakam ibrat siymosi boʼlgan ayollardan biri boʼlganlar.Fotima roziyallohu anho onamiz Paygʼambar alayhissalom vafotlaridan keyin olti oydan soʼng, hijratning oʼn birinchi yili, ramazon oyining ikkinchi kuni, dushanbada vafot etdilar.\n\nBugungi kunda masjidning ichki va tom qismi taʼmir talab holatga kelib qolganligi sababli mahalla faollari va jamoatchilik tashabbusi hamda hashar yoʼli bilan 2016 yilning oktyabr oyida taʼmirlash ishlari boshlab yuborilgan edi. Hozirda taʼmirlash ishlarining yakunlangan.\n\nManba: vakillik.uz",
+      "imgURL": "https://masjid.uz/images/stories/masjidlar/27-fotimaizahrnew/fz-1.jpg",
+      "vrURL": "https://momento360.com/e/u/68467518b0004f98983fdc783d22c108?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 3
     },
     {
-      "name": "Homidjonov Bobirjon",
-      "contact": "+998909981223",
-      "email": "asdah332@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://images.idgesg.net/images/article/2019/02/big_data_center_server_racks_storage_binary_analytics_by_monsitj_gettyimages-951389152_3x2-100787358-large.jpg",
-      "id": 14
+      "name": "Shayx Muhammad Sodiq Muhammad Yusuf",
+      "imamName": "Ismoil Muhammad Sodiq Muhammad Yusuf",
+      "address": "Sugalliota ko'chasi",
+      "region": "Chilonzor",
+      "location": "41.2588648,69.1868256",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "4167",
+      "info": " Joriy yilning 10 may kuni Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev poytaxtimizdagi Shayx Muhammad Sodiq Muhammad Yusuf nomidagi  majmuaga tashrif buyurgan edi.\n\nDavlatimiz rahbari tashabbusi bilan barpo etilgan ushbu majmua barcha moʻmin-musulmonlar uchun Ramazon tuhfasi boʻldi, desak mubolagʻa boʻlmaydi. Majmuaning diqqatga sazovor jihati, u barcha qulayliklarga ega, keng va shinam tarzda barpo etilganidir.\n\nBugun 2019 yil 11 may kuni yangi masjidning ochilish marosimi boʻlib oʻtdi. Masjidga Oʻzbekiston musulmonlar idorasi raisi, muftiy Usmonxon Alimov tashrif buyurib, musulmonlarni yangi masjid va Ramazon oyi bilan muborakbod etdi. Shundan soʻng, muftiy masjidga yigʻilganlarga yangi tayinlangan imom-xatibni tanishtirib oʻtdi. Masjidga Shayx Muhammad Sodiq Muhammad Yusuf hazratlarining  farzandlari Ismoil Muhammad Sodiq imom-xatib boʻldilar. Qisqa tanishtiruv va maʼruzalardan keyin, muftiy Usmonxon Alimov boshchiligida ilk taroveh namozi ado etildi.",
+      "imgURL": "https://cdn1.img.sputniknews-uz.com/images/1146/93/11469382.jpg",
+      "vrURL": "https://momento360.com/e/u/07bd946739754187b776c84bb568b1e6?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 4
     },
     {
-      "name": "Jamoliddinov Botirbek",
-      "contact": "+998909981223",
-      "email": "bekjon@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://images.idgesg.net/images/article/2018/01/storage_file_digital_archive_data_monitor-100746078-large.jpg",
-      "id": 15
+      "name": "Chosh tepa",
+      "imamName": "Abdulhakim Xotamov",
+      "address": "Chosh tepa",
+      "region": "Chilonzor",
+      "location": "41.2370898,69.1880465",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "3354",
+      "info": "“Choshtepa“ jome masjidi barcha zamon talablariga mos holda, milliy dizayn va yangi shaklda qad rostladi, – deydi masjid imom xatibi Abdulhakim Xotamov. – Ushbu masjid binosi ilk bor 1998 yilda 350 kishiga moʻljallab qurilgan. Soʻnggi yillarda namozxonlar koʻpaygani sababli masjid ichi torlik qilayotgandi. Shuningdek, isitish va sovutish tizimida muammolar boʻlgani uchun qishda sovuq, yozda esa issiq boʻlardi. Masjid binosi eskirgani tufayli tomidan chakka oʻtardi, devorlari esa yorilib ketgandi. Bundan tashqari, masjid mehrobi qibladan 35 gradusga farqlanardi.\nShu sababli mahalla ahlining murojaatiga asosan “Choshtepa“ jome masjidi qayta qurilishiga Toshkent shahar hokimligi tomonidan 2017 yil 29 iyulda ruxsat berildi. Masjidni qayta qurish ishlari 2018 yil may oyida boshlanib 2020 yil may oyida tugallandi.\nYangi masjid xonaqohi, er toʻla va ayvonlari 2000 namozxonga moʻljallangan. Shuningdek, masjid binosini qish va yoz oylarida isitish va sovutish uchun sunʼiy iqlim hosil qiluvchi qurilmalar oʻrnatilgan, issiq pollar yotqizilgan.\nMasjid 22x22 metrli sakkiz qirrali qilib qurildi. 43 metrli bitta minorasi va ettita gumbazi bor. Xonaqoh aylanasi 10 metrli gumbaz bilan qoplangan. Xonaqoh gumbazidan ergacha 17 metrni tashkil etadi. Shuningdek, bir vaqtning oʻzida 20 ga yaqin kishi foydalanishi mumkin boʻlgan tahoratxonada barcha sharoitlar yaratilgan.",
+      "imgURL": "https://masjid.uz/images/stories/masjidlar/yangi-choshtepa/1.jpg",
+      "vrURL": "https://momento360.com/e/u/9866b61ceb584f09b73f359c195f0322?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 5
     },
     {
-      "name": "Homidjonov Bobirjonn",
-      "id": 18,
-      "contact": "+998909981223",
-      "email": "asdah332@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://tr3.cbsistatic.com/hub/i/r/2016/10/06/ba2f8eb1-e16d-44da-a47e-7eb4668cc5ff/thumbnail/770x578/c7f1f0acfea17bcf439cba506b23b351/linuxsecurityhero.jpg"
+      "name": "Hasanqori",
+      "imamName": "Mahkamov Zikrullo",
+      "address": "Oqtepa maydoni, Lutfiy koʻchasi 25a-uy. Tel: +998 71 278 57 84",
+      "region": "Chilonzor",
+      "location": "41.295910,69.203307",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "3443",
+      "info": "",
+      "imgURL": "https://avatars.mds.yandex.net/get-altay/1881714/2a0000016bdb5f6a3daf53791c4d2d3ab468/L",
+      "vrURL": "https://momento360.com/e/u/a87cd309ac1646e7ba8d954fc0e7c50a?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 6
     },
     {
-      "name": "Eshmat  Toshmat",
-      "contact": "+998909875423",
-      "email": "asdah332@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://www.lynx.com/hubfs/Linux%20Challenges%20BG%2002.png",
-      "id": 19
+      "name": "Do`mbirobod",
+      "imamName": "Nurmuxammedov Alisher Rajab oʻgʻli",
+      "address": " Chilonzor tumani, Doʻmbiraobod mahallasi, Doʻmbirobod 4-tor koʻchasi 23-uy",
+      "region": "Chilonzor",
+      "location": "41.262305,69.209204",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "3232",
+      "info": "Masjid 1992-yilda Doʻmbiraobod mahallasi fuqarolari tomonidan hashar yoʻli bilan qurilgan va shu yildan faoliyat boshlagan.\n2012-yilda masjidda taʼmirlash ishlari olib borilgan. Masjid Doʻmbiraobod mahallasi hududida joylashganligi tufayli shu nom bilan atalgan. Doʻmbiraobod mahallasi shahrimizdagi qadimiy mahallalardan biri boʻlib, oʻz tarixiga ega. Qadimdan bu joylarda Qonqus anhori, Shirin va Darxon ariqlari oqqan. Toshkentning “Beshyogʻoch”, “Guliston”, “Chaqar” mahallalaridan odamlar mana shu joylarga kelib, oʻzlari uchun dala hovli barpo etishgan.\n\nAyrim mahalla oqsoqollarining gapiga qaraganda, dastlab mavze guzarida Mirsoat nomli qassob doʻkon ochib ish boshlagan. Har mol soʻyganida uning aqli zaif oʻgʻli doʻmbira chalib turgan. Doʻmbira  ovozini eshitgan aholi goʻsht olish taraddudida guzarga otlanishgan. Shuningdek, Mirsoat nihoyatda semiz boʻlgan. Mavzening u yoki bu sababga koʻra Doʻmbirobod nomini olishi shundan.",
+      "imgURL": "https://lh3.googleusercontent.com/p/AF1QipOd15So28FGCp4V7eoVpORA4pmrozw0B5kPlnYn=s1600-w400",
+      "vrURL": "https://momento360.com/e/u/7b8e5bc39aa34a6e9cbfb689e396e631?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 7
     },
     {
-      "name": "Mardon Marqayev",
-      "contact": "+998903423412",
-      "email": "Mardon@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://www.kmo.com.au/images/user-persona-in-web-design-and-user-expereince-.jpg",
-      "id": 21
+      "name": "Qatortol",
+      "imamName": "Orziyev Hamidulloh Turgʻunovich",
+      "address": "Mashrab 42",
+      "region": "Chilonzor",
+      "location": "41.267090,69.195798",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "2664",
+      "info": "",
+      "imgURL": "data:image/jpeg;base64,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",
+      "vrURL": "https://momento360.com/e/u/61b9c9b3539a477baaadf33a44665490?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 8
     },
     {
-      "name": "Botirbek Davronbek",
-      "contact": "+998934535678",
-      "email": "begmatovvv@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://images.idgesg.net/images/article/2020/06/man-looking-up_linux-code_command-for-user-assessment_by-electravk-getty-images-100849495-large.jpg",
-      "id": 22
-    },
-    {
-      "name": "Seo Seouuv",
-      "contact": "+798909980923",
-      "email": "asdah332@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/rastudio/rastudio1708/rastudio170800405/83323613-%EC%86%8C%EC%85%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%84%EB%A1%9C%ED%95%84-%ED%83%9C%EB%B8%94%EB%A6%BF%EC%9D%84-%EB%93%A4%EA%B3%A0%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C-x28-%EB%82%A8%EC%9E%90-x29-%EC%86%8C%EC%85%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EC%95%84%EB%B0%94%ED%83%80%EC%99%80-%EC%84%B8%EA%B3%84%EC%A7%80%EB%8F%84%EC%9D%98-%EB%B0%B0%EA%B2%BD%EC%97%90-%EC%84%9C%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%EA%B3%A0%EB%A6%BD-%EB%90%9C.jpg",
-      "id": 23
-    },
-    {
-      "name": "Omatilla Nizomiddinov",
-      "contact": "+998992346578",
-      "email": "omad@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/rastudio/rastudio1611/rastudio161102746/68428018-man-holding-tablet-computer-with-social-network-user-profile-man-standing-on-background-of-map-with-.jpg",
-      "id": 24
-    },
-    {
-      "name": "Botirbek Davronbek",
-      "contact": "+998909981223",
-      "email": "bekjon@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://previews.123rf.com/images/rastudio/rastudio1611/rastudio161102746/68428018-man-holding-tablet-computer-with-social-network-user-profile-man-standing-on-background-of-map-with-.jpg",
-      "id": 25
-    },
-    {
-      "name": "Homidjonov Bobirjon",
-      "contact": "+998712453423",
-      "email": "asdah332@gmail.com",
-      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
-      "image": "https://www.lynx.com/hubfs/Linux%20Challenges%20BG%2002.png",
-      "id": 26
-    },
-    {
-      "name": "Javoxir Jaloliddinov",
-      "contact": "+998333300388",
-      "email": "jrJavoxir@gamil.com",
-      "message": "hello",
-      "image": "https://images.idgesg.net/images/article/2020/06/man-looking-up_linux-code_command-for-user-assessment_by-electravk-getty-images-100849495-large.jpg",
-      "id": 28
-    },
-    {
-      "name": "Karimov Akrom",
-      "contact": "+998712453423",
-      "email": "BEk@gmail.com",
-      "message": "say hi",
-      "image": "https://www.lynx.com/hubfs/Linux%20Challenges%20BG%2002.png",
-      "id": 29
+      "name": "Ko`zi ojizlar",
+      "imamName": "Malikov Abdugʻofur Xoliqovich",
+      "address": "Chilonzor tumani, Choʻpon ota koʻchasi, 28a-uy",
+      "region": "Chilonzor",
+      "location": "41.290689,69.197310",
+      "busStop": "12,45,67",
+      "miniBus": "4,12",
+      "size": "2564",
+      "info": "Masjidning “Koʻzi ojizlar” deb nomlanishi maxallada asosan Koʻzi ojizlar istiqomat qilishi sabablidir. Sobiq SSSR  davrida bu hududda butun Oʻrta Osiyo respublikalaridan koʻzi ojiz insonlar jamlangan. Ularni ish bilan, uy-joy bilan davlat tomonidan taʼminlangan. Ularga maxsus maktab, maxsus bosmaxona, brayer alifbosidan tashkil topgan adabiyotlar bilan taʼminlangan. 1932-yil  OʻzR. Koʻzi ojizlar Jamiyatiga asos solingan. OʻzKOJning tashkiliy ijroiya qoʻmitasining korxonalar ochish uchun joy soʻrab qilgan murojaatlariga muvofiq 1958-yilda 10 ga. er ajratilgan. 5 ga. korxona uchun va 5ga uy-joy qurilishi uchun er ajratilgan. 1959-yildan boshlab qurilish ishlari boshlangan va 1964-yilda ishga tushirilgan. 1964-yil Koʻzi ojizlar mahallasi tashkil topgan.\n\nOʻzbekiston Respublikasi mustaqillikka erishgandan soʻng OʻzKOJ nogironlarining diniy marosimlarini, ibodatga boʻlgan ehtiyojlarini taʼminlash maqsadida mahalladagi koʻp sonli koʻzi ojiz insonlar talablarini inobatga olib, maxalla hududida hashar yoʻli bilan 1994-yil masjid qurilishi boshlangan.",
+      "imgURL": "https://avatars.mds.yandex.net/get-altay/1992662/2a0000016e79b7f60c0455e399de8e948643/XXL",
+      "vrURL": "https://momento360.com/e/u/91ac643ebd394f7f89b6d7f1aa3f7a67?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=75&size=medium",
+      "id": 9
     }
   ],
+  "users": [
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "contact": "+998339979897",
+      "email": "Shanna@melissa.tv",
+      "message": "Xayrli kun! Mening ismim Vadim. Men Sankt-Peterburg yaqinidagi Gatchina shahrida tugʻilib, Qozogʻistonning Olmota shahrida oʻsganman. Endi men Sankt-Peterburgda yashayman. Bu yil qadar men Moskvadagi bankida ishlaganman, lekin hozir men yangi ish izlayapman.",
+      "image": "https://previews.123rf.com/images/kubko/kubko1502/kubko150200212/36930397-group-of-flat-women-figure-silhouette-people-cartoon-vector-.jpg"
+    }
+  ],
+  
   "auth": [
     {
       "login": "eshmat",
